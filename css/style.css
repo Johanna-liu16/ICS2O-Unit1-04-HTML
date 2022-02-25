@@ -1,0 +1,19 @@
+/* Created by: Johanna Liu 
+ * Created on: Feb 2022 
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body 
+{
+  background-color: lavender;
+}
+
+h1 {
+      background-color: rgb(179, 245, 236);
+      color: hsl(333, 69%, 21%);
+      padding: 40px;
+      text-align: center;
+    }
+p{
+  background-color:#FFF0F5
+}
