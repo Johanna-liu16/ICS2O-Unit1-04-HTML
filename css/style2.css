@@ -1,0 +1,45 @@
+/* Created by: Johanna Liu 
+ * Created on: Feb 2022 
+ * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color:BlanchedAlmond;
+}
+
+h1 {
+      background-color: rgb(205, 117, 76);
+      color: hsl(20, 57%, 20%);
+      padding: 40px;
+      text-align: center;
+    }
+
+p {
+  background-color:#F5DEB3
+}
+
+ul {
+  color: black;
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  height: 2rem;
+  background: SandyBrown;
+  border: 1px solid white;
+  text-align: left;
+}
+
+td {
+  height: 2rem;
+  background: BurlyWood;
+  border: 1px solid black;
+  text-align: center;
+}
