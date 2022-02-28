@@ -9,11 +9,11 @@ body {
 
 h1 {
   background-color: rgb(179, 245, 236);
-  color: hsl(210, 69%, 20%);
+  color: hsl(210deg, 69%, 20%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: #E0FFFF;
+  background-color: #e0ffff;
 }
